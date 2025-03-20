@@ -1,7 +1,6 @@
 # Basics C++ Code
 
-This repository contains various C++ programs to demonstrate basic concepts of object-oriented programming (OOP) and data structures. Below is a summary of each program included in this repository.
-
+This repository contains various C++ programs to demonstrate basic concepts of object-oriented programming (OOP) and data structures
 ---
 
 ## 1. **Merge Linked Lists at a Specific Position (`Insert_linked_lists.cpp`)**
@@ -82,22 +81,6 @@ No direct input. The circle is created with a given radius in the code.
 Radius=30 Area of circle=2827.43 Perimeter of circle=188.495
 ```
 ---
-
-## How to Compile and Run:
-
-1. **Install a C++ compiler** (e.g., g++ or clang++).
-2. **Compile the code:**
-   - Open a terminal or command prompt.
-   - Navigate to the directory where the file is located.
-   - Compile the program using the following command:
-     ```bash
-     g++ <filename>.cpp -o <output_name>
-     ```
-3. **Run the program:**
-   - Execute the compiled program:
-     ```bash
-     ./<output_name>
-     ```
 
 
 
